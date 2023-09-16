@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1694891874 source:c:\users\mateu\documents\teste\atividade1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<pthread.h>
+	<semaphore.h>
+
