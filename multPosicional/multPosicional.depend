@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695000422 source:c:\users\mateu\documents\teste\multposicional\main.cpp
+	<iostream>
+	<pthread.h>
+
